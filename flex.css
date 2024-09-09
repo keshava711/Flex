@@ -1,0 +1,58 @@
+svg{
+    background-color:RGB (251, 183, 65);
+}
+.parent{
+    display: flex;
+    background-color: aquamarine;
+    box-shadow:black;
+    width: 900px;
+    height:500px;
+    margin: 10px 400px  ;   
+    border-radius: 2%; 
+}
+.item1{
+    background-color: rgb(16, 244, 244);
+    width: 850px;
+    height: 450px;
+    margin-left: 20px;
+    margin-top:20px;
+    border-radius: 2%;
+}
+.svg1{
+    position: relative;
+    color: orange;
+    top: 5px;
+}
+.b1{
+    color:rgb(91, 41, 243);
+}
+.b2{
+    font-weight: 100;
+}
+span{
+    float: right;
+}
+.svg2{
+    position: relative;
+    top: 4px;
+}
+.img1{
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    
+
+}
+.images{
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    row-gap: 50px;
+    left: 10PX;
+}
+
+.text1{
+    position:relative;
+    top: 10px;
+    margin-right: 25px;
+}
